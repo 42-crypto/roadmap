@@ -9,7 +9,7 @@
 #### 参考： 
 - https://www.pointer.gg/tutorials/Setting-Up-Your-Wallet/6e23e8e8-6760-45fa-8fb3-330400ac03ac
 
-## 1. Web3学習コミュニティに入って小さなアプリを作ってみる
+## 1. まずは学習コミュニティに入って小さなアプリを作ってみる
 #### 課題：
 - https://buildspace.so/
 - https://app.shiftbase.xyz/
