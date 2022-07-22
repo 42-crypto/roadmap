@@ -18,7 +18,7 @@
 
 ## 2. ビットコインのメカニクス
 #### 課題：
-- Blockchain自作課題
+- ブロックチェーン実装
 
 #### 参考：
 - https://bitcoin.org/bitcoin.pdf
@@ -28,6 +28,10 @@
 
 ## 3. イーサリアムと分散型アプリケーション
 #### 課題：
+- Solidity Modules
+- ウォレット実装
+- Merkle Tree課題
+- その他候補：マケプレ、クラウドファンド実装
 
 #### 参考：
 - https://ethereum.org/en/developers/docs/intro-to-ethereum/
@@ -39,15 +43,18 @@
 #### 内容：
 
 #### 参考：
+- Nakamoto Consensus
+- PoS
+- Avalanche Consensus
 
 ## 5. 分散型金融
-#### 内容：
+#### 課題：
+- Uniswap V2
+
+#### 参考：
 - Stablecoins and oracles
 - DEX
 - Lending
-
-#### 参考：
-
 
 ## その他：
 6. パブリックブロックチェーンでのプライバシー
