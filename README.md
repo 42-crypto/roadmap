@@ -1,4 +1,4 @@
-# Roadmap
+# Syllabus
 
 ## 0. 暗号資産入門
 #### 内容：
